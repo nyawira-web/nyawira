@@ -1,0 +1,12 @@
+import pandas as pd
+
+# Read the CSV dataset
+df = pd.read_csv("Synthetic_Medical_Health_Screening_Dataset.csv")
+
+# Display the first five rows
+print(df.head())
+
+# Display dataset information
+print(df.info())
+
+print("Dataset loaded successfully!")
