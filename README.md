@@ -1,32 +1,46 @@
 # Hi, I'm nyawira-web 👋
 
-**Curious by nature. Enthusiastic by default.**
+**Data Science Student | Coding Enthusiast | Continuous Learner**
 
-I'm an emerging enthusiast exploring technology, building things, and learning something new every day. Welcome to my little corner of GitHub—where curiosity becomes projects and ideas become code.
+I'm a data science student who enjoys coding to explore data, build useful tools, and turn ideas into working solutions. I learn by experimenting, writing code, and improving one project at a time.
 
 ---
 
 ## 🌱 About Me
 
-- 🚀 Driven by curiosity and a love for building
-- 🧠 Always learning, experimenting, and improving
-- 🤝 Open to collaboration and meaningful conversations
-- ✨ Interested in turning ideas into useful experiences
+- 🎓 Studying data science and analytics
+- 💻 Enjoy building projects through coding
+- 📊 Interested in data analysis, visualization, and machine learning
+- 🧠 Learning to turn raw data into meaningful insights
+- 🤝 Open to learning opportunities and collaboration
 
-## 🛠️ Tech & Tools
+## 🛠️ Skills & Tools
 
-> *My toolkit is growing—these are the tools and technologies I'm building with and learning.*
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
 
-| Project | What I Built | Status |
+| Project | Focus | Status |
 |:--|:--|:--|
-| **Project One** | A brief description of an idea or product you've created | 🚧 In progress |
-| **Project Two** | A second favorite project with a short explanation | 💡 Exploring |
-| **Project Three** | Another project worth highlighting | 🌱 Growing |
+| **Exploratory Data Analysis** | Clean, explore, and visualize a real-world dataset | 🧪 In progress |
+| **Machine Learning Experiment** | Train and evaluate a predictive model | 💡 Exploring |
+| **Data Visualization Story** | Communicate insights through charts and dashboards | 🌱 Growing |
+
+## 📚 Currently Learning
+
+- Python programming
+- Data cleaning and preparation
+- Exploratory data analysis
+- Statistical analysis
+- Data visualization
+- Machine learning fundamentals
+- SQL and database concepts
 
 ## 📊 GitHub Activity
 
@@ -34,15 +48,8 @@ I'm an emerging enthusiast exploring technology, building things, and learning s
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nyawira-web&theme=github-dark-blue&hide_border=true)
 
-## 📫 Let's Connect
+## 💬 My Approach
 
-- 💼 LinkedIn: *Add your profile link*
-- 🐦 X/Twitter: *Add your handle*
-- 🌐 Portfolio: *Add your website*
-- ✉️ Email: *Add your email*
-
-## 💬 A Little Inspiration
-
-> Stay curious. Keep creating. Never stop learning.
+> Stay curious, write code with purpose, and keep learning.
 
 Thanks for visiting! ⭐
